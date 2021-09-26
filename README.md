@@ -1,5 +1,5 @@
-I'm a smart person that is learning c++, Python and i love IDA// Visual studio!
+Accounts
 
+All of these were checked by me.
 
-
-
+Add: Very#0420 for more info!
