@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="test.exe" Options="857032">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="EntryPoint" Options="0" CompilationType="1" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager ProductCode="XEXLI09h2RI=" Algorithm="RSA" Bits="2048" PublicExp="AAEAAQ==" PrivateExp="iT9I9E42Isoxb8+eWwY8W8ltztC9vA6QSrJytiDn03+lvL2lCUB53aabvsMbosxzZTVtTofvG0UJM16ynJN2NbXcv+A9z2oEhOj4KZBpU7y17mCShxIxJOXcKIzo+LSyNhZxoABPmbizK4z4L0+4KCfw9GfddJLU9sSERvRhQIy0QKYOEpi7E0gFB7MfRXLb+79shytdr6murmS2z3qOZKA/Kp0uyazoNCzP/mxT39OGn3ZgP6IHtvwNtzZ8VF8bhoPKp0OZyKKkj4oj5jRO4iBB7WzZc9GC5H9HMhuZyUuKAWZWR+FncDoj58Rp3OH9JKj0AcOwn6sRDOgQYkQdTQ==" Modulus="o/GVP9dJW9xtb7RKUE35rEp+1RIaGvYm1hkedSlTl98CAOb+boag6+pDUW4pUldd94oq0we9PDS/I80+QUl4RYYR/amMAtFFDA8pAKt/jhpocuN4vYlFH11netGYK6Ai/UOdF51D/2w9x2u2nU8cCZM421fT0wovCAl+2h6s3GZaUgRURMLGy7m020AwOYjPZTjqMrPDQlNIDZC/eUMqg+/6gqtaxR1L3/WwdHjG8CdnBA/XMX3ea5ronQQ0ae38HeoY5EfQGZ36UPbmW0iV9c1OmuRNtfYG+WBQC6KjySTggERzea8duR7/n+UqJVC687cragT2yvdKYy2i17+mVQ==" />
+</Document>
